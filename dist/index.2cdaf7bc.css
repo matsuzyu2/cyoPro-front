@@ -35,7 +35,7 @@ body {
 }
 
 #entrance {
-  z-index: 10;
+  z-index: 1000;
   background-color: #fffc;
   border-radius: 5px;
   width: auto;
@@ -98,7 +98,7 @@ body {
 }
 
 #zoomback {
-  z-index: 1000;
+  z-index: 500;
   background-color: #0000;
   justify-content: center;
   align-items: center;
