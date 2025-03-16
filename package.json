@@ -7,7 +7,7 @@
     "dev": "parcel ./src/index.html",
     "test": "jest",
     "build": "npx babel src -d lib",
-    "start": "npx parcel serve ./dist/index.html --port 8080",
+    "start": "npx parcel serve ./src/index.html --port 8080",
     "babel-version": "babel --version"
   },
   "author": "",
